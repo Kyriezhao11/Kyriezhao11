@@ -7,8 +7,6 @@
   
 - 😄 Pronouns:
   
-- ⚡ Fun fact:
-  
 <!--
 **Kyriezhao11/Kyriezhao11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
