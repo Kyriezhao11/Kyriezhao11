@@ -6,6 +6,10 @@
 - 😄 Pronouns:
 - ⚡ Fun fact:
 
+#### Thanks for visiting :heart:
+<div align="center"> <img src="https://profile-counter.glitch.me/Kyriezhao11/count.svg" /> </div>
+
+
 <!--
 **Kyriezhao11/Kyriezhao11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
