@@ -6,7 +6,10 @@
 - 😄 Pronouns:
 - ⚡ Fun fact:
 
-<div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyriezhao11" /> </div> <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yang-tian-hub" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kyriezhao11&theme=xcode" /> </div>
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyriezhao11" /> </div>
+
 
 
 <!--
