@@ -5,7 +5,10 @@
 - 🌱 I’m currently learning
 - 😄 Pronouns:
 - ⚡ Fun fact:
-  
+
+<div align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyriezhao11" /> </div> <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yang-tian-hub" /> </div>
+
+
 <!--
 **Kyriezhao11/Kyriezhao11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
