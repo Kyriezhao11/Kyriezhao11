@@ -3,12 +3,7 @@
 
 ## 📈 GitHub Stats:
 
-<!--
-| Stat                                                                                                                                    | Language                                                                                                                  |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Kyriezhao11's github stats](https://github-readme-stats.vercel.app/api?username=Kyriezhao11&show_icons=true&theme=tokyonight) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kyriezhao11&layout=compact&theme=tokyonight) |
--->
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyriezhao11&layout=compact&hide_border=true&theme=tokyonight" height="180px" width="50%" /></span><span><img height="180px" width="50%" src="https://github-readme-stats.vercel.app/api?username=Kyriezhao11&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" /> </span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyriezhao11&layout=compact&hide_border=true&theme=tokyonight" height="150px" width="50%" /></span><span><img height="150px" width="50%" src="https://github-readme-stats.vercel.app/api?username=Kyriezhao11&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" /> </span>
 
 ## 💖 Thanks for Visiting :
 <div align="center"> <img src="https://profile-counter.glitch.me/Kyriezhao11/count.svg" /> </div>
