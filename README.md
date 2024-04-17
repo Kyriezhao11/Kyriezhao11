@@ -1,7 +1,7 @@
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小赵同学祝您今天愉快!&center=true&size=27"> </a> </h1>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kyriezhao11&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Kyriezhao11&show_icons=true&theme=tokyonight" />
 
 ### Hi there 👋
 
@@ -9,8 +9,6 @@
 - 🌱 I’m currently learning
 - 😄 Pronouns:
 - ⚡ Fun fact:
-
-
 
 ### Thanks for visiting :heart:
 <div align="center"> <img src="https://profile-counter.glitch.me/Kyriezhao11/count.svg" /> </div>
