@@ -4,8 +4,8 @@
 ## 📈 GitHub Stats:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyriezhao11&layout=compact&hide_border=true&theme=tokyonight" height="180px" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyriezhao11&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" height="180px" width="49%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyriezhao11&layout=compact&hide_border=true&theme=tokyonight" height="160px" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kyriezhao11&hide_title=true&hide_border=true&show_icons=trueline_height=21&theme=tokyonight" height="160px" width="50%" /> 
 </p>
 
 
